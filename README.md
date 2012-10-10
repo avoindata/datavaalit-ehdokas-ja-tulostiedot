@@ -10,16 +10,16 @@ Lähde: [Louhos](http://louhos.wordpress.com/2012/10/05/kunnallisvaalien-vertail
 
 ### Kunnallisvaalit 2004
 
-* äänestysaluekohtainen data: [2004/municipal_elections_candidates_2004_finland.csv](https://github.com/avoindata/datavaalit-ehdokas-ja-tulostiedot/blob/master/2004/municipal_elections_candidates_2004_finland.csv?raw=true)
-* kuntakohtainen data: [2004/municipal_elections_candidates_2004_finland_small.csv](https://github.com/avoindata/datavaalit-ehdokas-ja-tulostiedot/blob/master/2004/municipal_elections_candidates_2004_finland_small.csv?raw=true)
+* äänestysaluekohtainen data: [2004/municipal_elections_candidates_2004_finland.csv](2004/)
+* kuntakohtainen data: [2004/municipal_elections_candidates_2004_finland_small.csv](2004/)
 
 ### Kunnallisvaalit 2008
 
-* äänestysaluekohtainen data: [2008/municipal_elections_candidates_2008_finland.csv](https://github.com/avoindata/datavaalit-ehdokas-ja-tulostiedot/blob/master/2008/municipal_elections_candidates_2008_finland.csv?raw=true)
-* kuntakohtainen data: [2008/municipal_elections_candidates_2008_finland_small.csv](https://github.com/avoindata/datavaalit-ehdokas-ja-tulostiedot/blob/master/2008/municipal_elections_candidates_2008_finland_small.csv?raw=true)
+* äänestysaluekohtainen data: [2008/municipal_elections_candidates_2008_finland.csv](2008/)
+* kuntakohtainen data: [2008/municipal_elections_candidates_2008_finland_small.csv](2008/)
 
 
 ### Kunnallisvaalit 2012
 
-* kuntakohtainen data: [2012/municipal_elections_candidates_2012_finland.csv](https://github.com/avoindata/datavaalit-ehdokas-ja-tulostiedot/blob/master/2012/municipal_elections_candidates_2012_finland.csv?raw=true)
-* ehdokkaiden ammattitiedot: [2012/siivotut_ammatit_2012.csv](https://github.com/avoindata/datavaalit-ehdokas-ja-tulostiedot/blob/master/2012/siivotut_ammatit_2012.csv?raw=true)
+* kuntakohtainen data: [2012/municipal_elections_candidates_2012_finland.csv](2012/)
+* ehdokkaiden ammattitiedot: [2012/siivotut_ammatit_2012.csv](2012/)
