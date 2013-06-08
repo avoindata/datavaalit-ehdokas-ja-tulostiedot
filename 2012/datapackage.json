@@ -1,0 +1,70 @@
+{
+    "name": "municipal-elections-candidates-2012-finland",
+    "title": "Candidate running in Finnish municipal elections 2012",
+    "description": "",
+    "version": "1.0.0",
+    "licenses": [
+                {
+                    "id": "Copyright Finnish Ministry of Justice",
+                    "url": "http://192.49.229.35/K2012/e/ehd_listat/kokomaa.htm"
+                },
+                {
+                    "id": "Copyright Statistics Finland",
+                    "url": "http://www.stat.fi/org/lainsaadanto/copyright_en.html"
+                }
+              ],
+    "sources": [
+                {
+                    "name": "Finnish Ministry of Justice",
+                    "web": "http://192.49.229.35/K2012/e/ehd_listat/kokomaa.htm"
+                },
+                {
+                    "name": "Statistics Finland",
+                    "web": "http://pxweb2.stat.fi/database/StatFin/databasetree_fi.asp"
+                }
+
+             ],
+    "resources": [
+                    {
+                        "path": "municipal_elections_candidates_2004_finland.csv",
+                        "schema": {
+                            "fields": [
+                                        {
+                                            "id": "RowIndex",
+                                            "type": "integer",
+                                            "format": "Positive incremental"
+                                        },
+                                        {
+                                            "id": "Vaalilaji",
+                                            "type": "number",
+                                            "format": "percentage",
+                                            "description": "Annual average yield from British Government Securities, 10 year Nominal Par Yield"
+                                        }
+                                      ],
+
+                                  }
+                    }
+                 ],
+    "contributors":[ 
+                    {
+                        "name": "Leo Lahti",
+                        "email": "leo.lahti@iki.fi",
+                        "web": "http://antagomir.github.io/"
+                    }
+                   ],
+    "maintainers": [
+                    {
+                        "name": "Leo Lahti",
+                        "email": "leo.lahti@iki.fi",
+                        "web": "http://antagomir.github.io/"
+                    },
+                    {
+                        "name": "Joona Lehtomäki",
+                        "email": "joona.lehtomaki@gmail.com",
+                        "web": "http://jlehtoma.github.io"
+                    }
+                   ],
+    "keywords": ["muicipal elections", "Finland", "2012"],
+    "last_modified": "2012-10-10",
+
+} 
