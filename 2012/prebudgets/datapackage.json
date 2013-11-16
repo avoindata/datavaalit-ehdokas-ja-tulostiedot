@@ -9,7 +9,6 @@
                     "name": "Puolue- ja vaalirahoitusvalvonta",
                     "web": "http://www.vaalirahoitusvalvonta.fi/fi/index/vaalirahailmoituksia/raportit/Tietoaineistot/"
                 }
-
                ],
     "resources": [
                     {
@@ -53,8 +52,7 @@
                                             "format": "decimal",
                                             "description": "Total amount (in euros) spent for a particular expense type"
                                         }
-                                      ],
-
+                                      ]
                                   }
                     }
                  ],
@@ -63,14 +61,13 @@
                         "name": "Joona Lehtomäki",
                         "email": "joona.lehtomaki@gmail.com",
                         "web": "http://jlehtoma.github.io"
-                    }
+                    },
                     {
                         "name": "Leo Lahti",
                         "email": "leo.lahti@iki.fi",
                         "web": "http://antagomir.github.io/"
-                    },
+                    }
                    ],
     "keywords": ["muicipal elections", "Finland", "2012", "prebudgets"],
-    "last_modified": "2013-06-11",
-
-} 
+    "last_modified": "2013-06-11"
+}
