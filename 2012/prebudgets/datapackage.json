@@ -1,0 +1,76 @@
+{
+    "name": "municipal-elections-prebudgets-2012-finland",
+    "title": "Reported prebudgets (expenses) in Finnish municipal elections 2012",
+    "description": "",
+    "version": "1.0.0",
+    "licenses": [],
+    "sources": [
+                {
+                    "name": "Puolue- ja vaalirahoitusvalvonta",
+                    "web": "http://www.vaalirahoitusvalvonta.fi/fi/index/vaalirahailmoituksia/raportit/Tietoaineistot/"
+                }
+
+               ],
+    "resources": [
+                    {
+                        "path": "municipal_elections_prebudgets_2012_finland.csv",
+                        "schema": {
+                            "fields": [
+                                        {
+                                            "id": "first_name",
+                                            "type": "string",
+                                            "description": "Candidate first name"
+                                        },
+                                        {
+                                            "id": "last_name",
+                                            "type": "string",
+                                            "description": "Candidate last name"
+                                        },
+                                        {
+                                            "id": "candidate_number",
+                                            "type": "integer",
+                                            "format": "positive integer",
+                                            "description": "Candidate running number in the election"
+                                        },
+                                        {
+                                            "id": "party",
+                                            "type": "string",
+                                            "description": "Candidate party"
+                                        },
+                                        {
+                                            "id": "municipality",
+                                            "type": "string",
+                                            "description": "Candidate municipality"
+                                        },
+                                        {
+                                            "id": "expense_type",
+                                            "type": "string",
+                                            "description": "Type of the expnse, all others should sum to 'total'"
+                                        },
+                                        {
+                                            "id": "expense_sum",
+                                            "type": "number",
+                                            "format": "decimal",
+                                            "description": "Total amount (in euros) spent for a particular expense type"
+                                        }
+                                      ],
+
+                                  }
+                    }
+                 ],
+    "maintainers": [
+                    {
+                        "name": "Joona Lehtomäki",
+                        "email": "joona.lehtomaki@gmail.com",
+                        "web": "http://jlehtoma.github.io"
+                    }
+                    {
+                        "name": "Leo Lahti",
+                        "email": "leo.lahti@iki.fi",
+                        "web": "http://antagomir.github.io/"
+                    },
+                   ],
+    "keywords": ["muicipal elections", "Finland", "2012", "prebudgets"],
+    "last_modified": "2013-06-11",
+
+} 
