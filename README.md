@@ -1,7 +1,7 @@
 datavaalit-ehdokas-ja-tulostiedot
 =================================
 
-Vaalien ehdokas- ja tulostietoja..
+Vaalien ehdokas- ja tulostietoja...
 
 Louhoksen laatimat kunnallisvaalien vertailukelpoiset ehdokasdatat CSV-taulukkoina (2004, 2008, 2012).
 
